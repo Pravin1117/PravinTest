@@ -1,8 +1,7 @@
 package StringQuestions;
 
 public class Program9_CountNumberOfChars {
-    /*
-    Program to count occurrence of a given character in a string
+    /*Program to count occurrence of a given character in a string
     Examples:
     Input : str = "geeksforgeeks"
              c = 'e'
@@ -13,6 +12,8 @@ public class Program9_CountNumberOfChars {
               c = 'a'
     Output : 3
     'a' appears three times in str.
+
+    Input P:
      */
 
     public static void main(String[] args) {
