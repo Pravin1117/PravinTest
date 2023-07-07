@@ -13,7 +13,8 @@ public class Program9_CountNumberOfChars {
     Output : 3
     'a' appears three times in str.
 
-    Input P:
+    Input : str ="TestGit"
+    
      */
 
     public static void main(String[] args) {
